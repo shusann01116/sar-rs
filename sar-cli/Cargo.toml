@@ -10,7 +10,7 @@ readme = "README.md"
 edition.workspace = true
 
 [dependencies]
-sar-core = { path = "../sar-core", version = "0.1.1" }
+sar-core = { path = "../sar-core", version = "0.1.2" }
 anyhow = { workspace = true }
 clap = { workspace = true, features = ["derive"] }
 image.workspace = true
